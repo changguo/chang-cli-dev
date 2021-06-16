@@ -16,14 +16,14 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "registry": "http://registry.npmjs.org/"
-  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
     "@chang-cli-dev/utils": "^1.0.1"
   },
-  "gitHead": "1192d33831ed140055f386ae158ef0034f198b27"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "07a866a5fbd698a5c9bebee41035c9913e25c3c1"
 }
