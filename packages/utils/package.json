@@ -1,0 +1,23 @@
+{
+  "name": "@chang-cli-dev/utils",
+  "version": "1.0.0",
+  "description": "chang-cli-dev utils",
+  "author": "guochang <1149260569@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {}
+}
