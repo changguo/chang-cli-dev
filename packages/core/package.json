@@ -1,6 +1,6 @@
 {
   "name": "@chang-cli-dev/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "chang-cli-dev core",
   "author": "guochang <1149260569@qq.com>",
   "homepage": "",
@@ -23,7 +23,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@chang-cli-dev/utils": "^1.0.2"
+    "@chang-cli-dev/utils": "^1.0.3"
   },
   "gitHead": "4c4988f39bbf6b6ed497644f986898d935e78e5c"
 }
